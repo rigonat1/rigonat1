@@ -1,6 +1,6 @@
 ## Olá, sou o Victor Rigonati ! 👨‍💻
 
-- 💻Hoje trabalho com Back-end 
+- 💻Hoje sou estudante com foco em Back-end e Machine Learning
 - 🧠Atualmente estou estudando Python e ML 
 - 📩Contate-me no email: victorrbarbarescoctt@gmail.com
 
