@@ -53,20 +53,33 @@
 
 ## 📊 Estatísticas do GitHub
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rigonat1&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&langs_count=8&theme=radical"/>
-</div>
+
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rigonat1&theme=radical" alt="GitHub Streak" />
 </div>
 
+
+
+
+## 🎓 Certificações & Cursos
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rigonat1&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+
+| Certificação | Instituição | Status |
+|--------------|-------------|--------|
+| 🏆 **Informática Avançada** | Microcamp | ✅ Concluído |
+| 🏆 **CS50** | Harvard | ✅ Concluído |
+| 🏆 **Scrum Fundation** | Certiprof | ✅ Concluído |
+| 🏆 **Ciência da Computação** | UBC | 📚 Em andamento |
+| 🏆 **Gestão da Tecnologia da Informação** | UNG | ✅ Concluído |
+
 </div>
 
+<div align="center">
+  
 ---
+
 
 ## 📫 Como me Contatar
 
