@@ -43,7 +43,7 @@ Sou apaixonado por transformar dados em insights e construir soluções intelige
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rigonat1&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?rigonat1=SEU_USERNAME&layout=compact&langs_count=7&theme=default"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rigonat1&layout=compact&langs_count=7&theme=default"/>
 </div>
 
 ---
