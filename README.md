@@ -8,7 +8,7 @@
 
 ## 🚀 Sobre Mim
 
-🔬 Apaixonado(a) por **Data Science** e **Machine Learning**  
+🔬 Apaixonado por **Data Science** e **Machine Learning**  
 📊 Transformando dados em insights acionáveis  
 🤖 Explorando o poder da Inteligência Artificial  
 📈 Sempre aprendendo e experimentando novas tecnologias
@@ -118,6 +118,6 @@
 
 <div align="center">
   
-### ⭐ Obrigado(a) pela visita! ⭐
+### ⭐ Obrigado pela visita! ⭐
   
 </div>
